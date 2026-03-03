@@ -6,8 +6,10 @@
     "https://raw.githubusercontent.com/*",
     "https://*.github.com/*",
     "https://*.githubusercontent.com/*",
+    "https://raw.githubusercontent.com/CyberDrain/Check/refs/heads/main/rules/detection-rules.json",
     "https://networkthinking.com"
   ]
 }
+
 
 
