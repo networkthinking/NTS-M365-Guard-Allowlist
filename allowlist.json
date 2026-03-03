@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-02-27T00:00:00Z",
+  "description": "URL allowlist for NTS-M365-Guard. Patterns are merged with user-configured URL Allowlist. Supports simple URLs with * wildcards or regex.",
+  "patterns": [
+    "https://raw.githubusercontent.com/*",
+    "https://*.github.com/*",
+    "https://*.githubusercontent.com/*"
+  ]
+}
