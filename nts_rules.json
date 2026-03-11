@@ -6,7 +6,7 @@
       "pattern": "(?:copy the code(?:\\s+above)?|click continue and paste(?:\\s*\\(ctrl\\+v\\))?|sign in with your microsoft account)",
       "flags": "i",
       "severity": "critical",
-      "description": "Device code phishing - Microsoft Authentication Broker copy code + Microsoft sign-in instructions",
+      "description": "Microsoft device code login instructions on non-Microsoft domain",
       "action": "block",
       "category": "credential_harvesting",
       "confidence": 0.9
