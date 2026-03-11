@@ -5,7 +5,7 @@
       "id": "phi_device_code_phishing",
       "pattern": "(?:copy the code(?:\\s+above)?|click continue and paste(?:\\s*\\(ctrl\\+v\\))?|sign in with your microsoft account)",
       "flags": "i",
-      "severity": "high",
+      "severity": "critical",
       "description": "Device code phishing - Microsoft Authentication Broker copy code + Microsoft sign-in instructions",
       "action": "block",
       "category": "credential_harvesting",
