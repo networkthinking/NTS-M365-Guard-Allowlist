@@ -1,5 +1,5 @@
 {
-  "description": "NTS M365 Guard additional rules - merge with base (CyberDrain/Check). Host this file and set Additional Rules URL in Options.",
+  "description": "NTS M365 Guard additional rules - merge with base (CyberDrain/Check). Live URL: https://raw.githubusercontent.com/networkthinking/NTS-M365-Guard-Allowlist/refs/heads/main/nts_rules.json",
   "phishing_indicators": [
     {
       "id": "phi_device_code_phishing",
@@ -11,5 +11,19 @@
       "category": "credential_harvesting",
       "confidence": 0.9
     }
-  ]
+  ],
+  "exclusion_system": {
+    "context_indicators": {
+      "legitimate_sso_patterns": [
+        "continue with apple",
+        "sign in with apple",
+        "continue with google",
+        "sign in with google",
+        "continuar con apple",
+        "iniciar sesión con google",
+        "continuar con google",
+        "sign up with email"
+      ]
+    }
+  }
 }
