@@ -4,8 +4,7 @@
   "description": "URL allowlist for NTS-M365-Guard. Patterns are merged with user-configured URL Allowlist. Supports simple URLs with * wildcards or regex.",
   "patterns": [
     "https://networkthinking.com",
-    "https://networkthinking.com/*",
-    "https://www.myheritage.com/*"
+    "https://networkthinking.com/*"
   ]
 }
 
