@@ -5,7 +5,7 @@
   "patterns": [
     "https://networkthinking.com",
     "https://networkthinking.com/*",
-    "https://www.myheritage.com/*"
+    "https://myheritage.com/*"
   ]
 }
 
