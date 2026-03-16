@@ -6,7 +6,8 @@
     "https://networkthinking.com",
     "https://networkthinking.com/*",
     "https://*.ingrammicro.com/*",
-    "https://myheritage.com/*"
+    "https://myheritage.com/*",
+    "https://*synnex.com/*"
 
    ]
 }
