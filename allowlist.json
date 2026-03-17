@@ -5,8 +5,8 @@
   "patterns": [
     "https://networkthinking.com",
     "https://networkthinking.com/*",
-    "https://*.ingrammicro.com/*",
-    "https://*synnex.com/*"
+    // "https://*.ingrammicro.com/*",
+    // "https://*synnex.com/*"
 
    ]
 }
