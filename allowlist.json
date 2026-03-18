@@ -10,7 +10,8 @@
     "https://*.synnex.com/*",
     "https://*.claude.com/*",
     "https://*.budget.com/*",
-    "https://*.crowdstrike.com/*"
+    "https://*.crowdstrike.com/*",
+    "https://*.lennysnewsletter.com/*"
   ]
 }
 
