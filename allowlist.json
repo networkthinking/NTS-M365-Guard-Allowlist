@@ -9,7 +9,8 @@
     "https://*.ingrammicro.com/*",
     "https://*.synnex.com/*",
     "https://*.claude.com/*",
-    "https://*.budget.com/*"
+    "https://*.budget.com/*",
+    "https://*.crowdstrike.com/*"
   ]
 }
 
