@@ -11,7 +11,8 @@
     "https://*.claude.com/*",
     "https://*.budget.com/*",
     "https://*.crowdstrike.com/*",
-    "https://*.mysonicwall.com/*"
+    "https://*.mysonicwall.com/*",
+    "https://*.elevenlabs.io/*"
   ]
 }
 
