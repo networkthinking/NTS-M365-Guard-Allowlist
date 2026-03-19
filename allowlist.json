@@ -12,7 +12,8 @@
     "https://*.budget.com/*",
     "https://*.crowdstrike.com/*",
     "https://*.mysonicwall.com/*",
-    "https://*.elevenlabs.io/*"
+    "https://*.elevenlabs.io/*",
+    "https://*nuanceaudio.com/*"
   ]
 }
 
