@@ -13,9 +13,11 @@
     "https://*.crowdstrike.com/*",
     "https://*.mysonicwall.com/*",
     "https://*.elevenlabs.io/*",
+    "https://*.elevenlabs.io/*",
     "https://network-thinking-solutions.itglue.com/*",
     "https://claude.ai/*",
     "https://app.frontapp.com/*",
+    "https://www.tomshardware.com/*",
     "https://www.readyrefresh.com/"
     
   ]
