@@ -18,8 +18,7 @@
     "https://claude.ai/*",
     "https://app.frontapp.com/*",
     "https://www.tomshardware.com/*",
-    "https://www.readyrefresh.com/",
-    "https://*.slack.com/*"
-    
+    "https://www.readyrefresh.com/"
+        
   ]
 }
