@@ -16,9 +16,7 @@
     "https://*.elevenlabs.io/*",
     "https://network-thinking-solutions.itglue.com/*",
     "https://claude.ai/*",
-    "https://app.frontapp.com/*",
-    "https://www.tomshardware.com/*",
-    "https://www.readyrefresh.com/"
+    "https://app.frontapp.com/*"    
         
   ]
 }
