@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-02-27T00:00:00Z",
+  "lastUpdated": "2026-04-06T00:00:00Z",
   "description": "URL allowlist for NTS-M365-Guard. Patterns are merged with user-configured URL Allowlist. Supports simple URLs with * wildcards or regex.",
   "patterns": [
     "https://networkthinking.com",
@@ -9,14 +9,10 @@
     "https://*.ingrammicro.com/*",
     "https://*.synnex.com/*",
     "https://*.claude.com/*",
-    "https://*.budget.com/*",
     "https://*.crowdstrike.com/*",
     "https://*.mysonicwall.com/*",
-    "https://*.elevenlabs.io/*",
-    "https://*.elevenlabs.io/*",
     "https://network-thinking-solutions.itglue.com/*",
     "https://claude.ai/*",
-    "https://app.frontapp.com/*"    
-        
+    "https://app.frontapp.com/*"            
   ]
 }
