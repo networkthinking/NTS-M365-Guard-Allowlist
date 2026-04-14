@@ -14,6 +14,9 @@
     "https://network-thinking-solutions.itglue.com/*",
     "https://claude.ai/*",
     "https://app.frontapp.com/*",
-    "https://att.com/*"
+    "https://att.com/*",
+    "https://att.com*",
+    "https://www.att.com/acctmgmt",
+    "https://*.att.com*"
   ]
 }
