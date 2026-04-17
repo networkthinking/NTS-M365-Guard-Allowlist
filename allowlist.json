@@ -20,7 +20,8 @@
     "https://*.att.com*",
     "https://www.arrow.com/*",
     "https://*.arrow.com*",
-    "https://*.arrowb2cprod.com/*"
+    "https://*.arrowb2cprod.com/*",
+    "https://arrowb2cprod.b2clogin.com/*"
     
   ]
 }
