@@ -17,6 +17,9 @@
     "https://att.com/*",
     "https://att.com*",
     "https://www.att.com/acctmgmt",
-    "https://*.att.com*"
+    "https://*.att.com*",
+    "https://www.arrow.com/*",
+    "https://*.arrow.com*"
+    
   ]
 }
